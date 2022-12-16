@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Anilbingishetti
-- 👀 I’m interested in ...full stack devlopment
-- 🌱 I’m currently learning ...javasccprit
+- 👀 I’m interested in ...web design
+- 🌱 I’m currently learning ...css
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...give me a mail 
 - <! bingishettianilkumar23@gmail.com----->
